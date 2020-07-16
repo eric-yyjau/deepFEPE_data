@@ -4,6 +4,9 @@
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
+dsac_tools/__pycache__/
+dump_tools/__pycache__/
+dump_tools/apollo/__pycache__/
 *.py[cod]
 *$py.class
 
