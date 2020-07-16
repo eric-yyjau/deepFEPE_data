@@ -93,4 +93,15 @@ python dump_tools/dump_data.py  --dump --dataset_dir /data/tum/raw_sequences  --
 ## Visualize dataset
 Refer to https://github.com/eric-yyjau/kitti_instance_RGBD_utils for some code snippets.
 
+## Citations
+Please cite the following papers.
+- DeepFEPE
+```
+```
+
+# Credits
+This implementation is developed by [You-Yi Jau](https://github.com/eric-yyjau) and [Rui Zhu](https://github.com/Jerrypiglet). Please contact You-Yi for any problems. 
+
+# License
+DeepFEPE is released under the MIT License. 
 
