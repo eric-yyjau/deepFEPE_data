@@ -8,7 +8,7 @@ pebble
 matplotlib
 imageio
 pykitti
-opencv-python==3.4.2.16
+opencv-python==4.2.0.32
 opencv-contrib-python==3.4.2.16
 pebble
 Pillow==5.0.0
